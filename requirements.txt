@@ -1,0 +1,11 @@
+streamlit==1.43.0
+streamlit-chat==0.1.1
+google-generativeai==0.8.4
+python-dotenv==1.0.1
+langdetect==1.0.9
+nltk==3.9.1
+pandas==2.0.1
+plotly==5.18.0
+wordcloud==1.9.4
+numpy==1.23.5
+scikit-learn==1.2.2
