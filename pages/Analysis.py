@@ -136,4 +136,4 @@ if "topics" in st.session_state and st.session_state.topics:
     )
     st.plotly_chart(fig_wc, use_container_width=True)
 else:
-    st.warning("Belum ada data Kata Kunci.")
+    st.warning("Belum ada data kata kunci.")
