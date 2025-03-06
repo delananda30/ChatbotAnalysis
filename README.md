@@ -1,13 +1,16 @@
-![image](https://github.com/user-attachments/assets/1835125c-eadb-4117-902a-f9139014a263)
-
-![image](https://github.com/user-attachments/assets/681f453d-45c4-479e-aada-f5fbdd39104a)
-
-![image](https://github.com/user-attachments/assets/87dffbdf-8caf-49bd-aec5-54f58d876253)
-
-![image](https://github.com/user-attachments/assets/562874b8-1f57-4dbb-86e0-0074735485a4)
-
-
 # Chatbot Analysis dengan Streamlit
+
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/1835125c-eadb-4117-902a-f9139014a263" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/681f453d-45c4-479e-aada-f5fbdd39104a" width="300"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/87dffbdf-8caf-49bd-aec5-54f58d876253" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/562874b8-1f57-4dbb-86e0-0074735485a4" width="300"></td>
+  </tr>
+</table>
+
 
 Proyek ini adalah aplikasi berbasis Streamlit yang mengimplementasikan chatbot menggunakan model Gemini dari Google Generative AI. Selain itu, aplikasi ini juga menyediakan analisis percakapan berbasis sentimen dan kata kunci.
 
